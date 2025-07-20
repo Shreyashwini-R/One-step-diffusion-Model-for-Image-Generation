@@ -52,7 +52,7 @@ python Model/fourStepStudent.py
 
 # 📊 Architecture Overview
 <div align="center">
-  <img src="architecture.png" alt="Architecture Diagram" width="250"/>
+  <img src="Models/architecture.png" alt="Architecture Diagram" width="250"/>
 </div>
 
 
